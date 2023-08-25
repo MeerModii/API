@@ -1,4 +1,4 @@
-# APIs used in CoinWave app 
+# APIs For CoinWave 
 
 This repo consists of Two API that will be used in CoinWave Application:
 
